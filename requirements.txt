@@ -6,5 +6,6 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
+langchain-huggingface
 pinecone-client
 langchain-pinecone
