@@ -1,22 +1,270 @@
-body {
-    font-family: Arial;
-    background: #f2f2f2;
+/* Reset-ish */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
   }
   
-  .chat-container {
-    width: 400px;
-    margin: auto;
-    background: white;
-    padding: 15px;
+  body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+      "Segoe UI", sans-serif;
+    background: radial-gradient(circle at top, #0f172a, #020617 55%, #000 100%);
+    color: #e5e7eb;
+    min-height: 100vh;
   }
   
-  .user {
-    color: blue;
-    margin: 5px 0;
+  /* Background glow effects */
+  .app-bg {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
   }
   
-  .bot {
-    color: green;
-    margin: 5px 0;
+  .glow {
+    position: absolute;
+    border-radius: 999px;
+    filter: blur(80px);
+    opacity: 0.6;
   }
   
+  .glow-1 {
+    width: 420px;
+    height: 420px;
+    background: #4f46e5;
+    top: -80px;
+    left: -40px;
+  }
+  
+  .glow-2 {
+    width: 420px;
+    height: 420px;
+    background: #ec4899;
+    bottom: -120px;
+    right: -80px;
+  }
+  
+  /* Chat card */
+  .chat-shell {
+    position: relative;
+    width: 95%;
+    max-width: 900px;
+    height: 80vh;
+    max-height: 720px;
+    background: rgba(15, 23, 42, 0.9);
+    border-radius: 24px;
+    border: 1px solid rgba(148, 163, 184, 0.35);
+    box-shadow:
+      0 24px 60px rgba(15, 23, 42, 0.85),
+      0 0 0 1px rgba(15, 23, 42, 0.9);
+    backdrop-filter: blur(20px);
+    display: flex;
+    flex-direction: column;
+    padding: 18px 22px 18px;
+  }
+  
+  /* Header */
+  .chat-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 14px;
+    border-bottom: 1px solid rgba(148, 163, 184, 0.35);
+    gap: 16px;
+  }
+  
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  
+  .logo-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 999px;
+    background: radial-gradient(circle at 30% 30%, #f9a8d4, #6366f1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    color: #0b1120;
+    box-shadow: 0 0 0 2px rgba(15, 23, 42, 0.9);
+  }
+  
+  .brand h1 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+  }
+  
+  .brand p {
+    font-size: 0.78rem;
+    color: #9ca3af;
+  }
+  
+  .role-select {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 4px;
+    font-size: 0.78rem;
+    color: #9ca3af;
+  }
+  
+  .role-select label {
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.7rem;
+  }
+  
+  .role-select select {
+    padding: 6px 10px;
+    border-radius: 999px;
+    border: 1px solid rgba(148, 163, 184, 0.75);
+    background: rgba(15, 23, 42, 0.9);
+    color: #e5e7eb;
+    font-size: 0.8rem;
+    outline: none;
+  }
+  
+  /* Chat window */
+  .chat-window {
+    flex: 1;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 12px;
+    border-radius: 18px;
+    background: radial-gradient(circle at top left, #020617, #020617 55%, #020617);
+    border: 1px solid rgba(30, 64, 175, 0.4);
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  /* Scrollbar styling */
+  .chat-window::-webkit-scrollbar {
+    width: 6px;
+  }
+  .chat-window::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .chat-window::-webkit-scrollbar-thumb {
+    background: rgba(148, 163, 184, 0.7);
+    border-radius: 999px;
+  }
+  
+  /* Messages */
+  .message {
+    max-width: 80%;
+    padding: 10px 12px;
+    border-radius: 14px;
+    font-size: 0.85rem;
+    line-height: 1.35;
+    position: relative;
+  }
+  
+  .message.user {
+    align-self: flex-end;
+    background: linear-gradient(135deg, #4f46e5, #6366f1);
+    color: #e5e7eb;
+    border-bottom-right-radius: 4px;
+  }
+  
+  .message.bot {
+    align-self: flex-start;
+    background: rgba(15, 23, 42, 0.95);
+    border: 1px solid rgba(55, 65, 81, 0.9);
+    border-bottom-left-radius: 4px;
+    color: #e5e7eb;
+  }
+  
+  /* Subtle labels for roles/messages (optional) */
+  .message::before {
+    content: attr(data-label);
+    display: block;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    opacity: 0.7;
+    margin-bottom: 3px;
+  }
+  
+  .message.user::before {
+    content: "You";
+  }
+  
+  .message.bot::before {
+    content: "Adino";
+  }
+  
+  /* Input bar */
+  .chat-input-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 4px;
+    padding-top: 8px;
+    border-top: 1px solid rgba(148, 163, 184, 0.35);
+  }
+  
+  .chat-input-bar input {
+    flex: 1;
+    padding: 10px 12px;
+    border-radius: 999px;
+    border: 1px solid rgba(148, 163, 184, 0.6);
+    background: rgba(15, 23, 42, 0.9);
+    color: #e5e7eb;
+    font-size: 0.85rem;
+    outline: none;
+  }
+  
+  .chat-input-bar input::placeholder {
+    color: #6b7280;
+  }
+  
+  .chat-input-bar button {
+    padding: 9px 16px;
+    border-radius: 999px;
+    border: none;
+    background: linear-gradient(135deg, #4f46e5, #ec4899);
+    color: #f9fafb;
+    font-size: 0.85rem;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+    box-shadow: 0 10px 25px rgba(79, 70, 229, 0.4);
+    transition: transform 0.08s ease, box-shadow 0.08s ease, filter 0.08s ease;
+  }
+  
+  .chat-input-bar button:hover {
+    transform: translateY(-1px);
+    filter: brightness(1.05);
+    box-shadow: 0 14px 30px rgba(79, 70, 229, 0.5);
+  }
+  
+  .chat-input-bar button:active {
+    transform: translateY(0px) scale(0.99);
+    box-shadow: 0 5px 15px rgba(79, 70, 229, 0.4);
+  }
+  
+  .send-icon {
+    font-size: 0.9rem;
+  }
+  
+  /* Mobile tweaks */
+  @media (max-width: 600px) {
+    .chat-shell {
+      height: 90vh;
+      padding: 14px 14px 14px;
+    }
+  
+    .chat-window {
+      padding: 10px;
+    }
+  }

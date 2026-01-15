@@ -1,25 +1,52 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8" />
   <title>Adino AI Assistant</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<div class="chat-container">
-  <h2>Adino Support Assistant</h2>
+  <div class="app-bg">
+    <div class="glow glow-1"></div>
+    <div class="glow glow-2"></div>
 
-  <select id="role">
-    <option>Employee</option>
-    <option>Manager</option>
-    <option>HR</option>
-  </select>
+    <div class="chat-shell">
+      <header class="chat-header">
+        <div class="brand">
+          <div class="logo-circle">A</div>
+          <div>
+            <h1>Adino Support</h1>
+            <p>Your role‑aware knowledge assistant</p>
+          </div>
+        </div>
+        <div class="role-select">
+          <label for="role">You are</label>
+          <select id="role">
+            <option>Employee</option>
+            <option>Manager</option>
+            <option>HR</option>
+          </select>
+        </div>
+      </header>
 
-  <div id="chat"></div>
+      <main id="chat" class="chat-window">
+        <!-- Messages get injected here -->
+      </main>
 
-  <input id="input" placeholder="Ask your question..." />
-  <button onclick="send()">Send</button>
-</div>
+      <footer class="chat-input-bar">
+        <input
+          id="input"
+          type="text"
+          placeholder="Ask anything about company policies, leaves, salary, etc..."
+        />
+        <button onclick="send()">
+          <span>Send</span>
+          <span class="send-icon">➤</span>
+        </button>
+      </footer>
+    </div>
+  </div>
 
-<script src="script.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
