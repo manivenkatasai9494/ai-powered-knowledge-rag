@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage
+from langchain_huggingface import HuggingFaceEndpointEmbeddings
 from pinecone import Pinecone
 from langchain_pinecone import PineconeVectorStore
 
@@ -19,14 +20,20 @@ llm = ChatGroq(
     groq_api_key=os.getenv("GROQ_API_KEY")
 )
 
-# ---------------- Pinecone ONLY (NO EMBEDDINGS LOADED) ----------------
+# ---------------- QUERY-ONLY EMBEDDINGS (API, NO RAM HIT) ----------------
+embeddings = HuggingFaceEndpointEmbeddings(
+    huggingfacehub_api_token=os.getenv("HUGGINGFACE_API_KEY"),
+    repo_id="sentence-transformers/all-MiniLM-L6-v2",
+    task="feature-extraction"
+)
+
+# ---------------- PINECONE ----------------
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 index_name = os.getenv("PINECONE_INDEX", "adino-rag")
 
-# IMPORTANT: embedding=None to avoid loading model in memory
 vectorstore = PineconeVectorStore.from_existing_index(
     index_name=index_name,
-    embedding=None
+    embedding=embeddings
 )
 
 def generate_answer(context_docs, question):
