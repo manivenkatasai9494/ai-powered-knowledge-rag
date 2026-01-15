@@ -6,27 +6,25 @@ from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain_pinecone import PineconeEmbeddings, PineconeVectorStore
 from langchain_core.messages import HumanMessage
-from pinecone import Pinecone
 
 load_dotenv()
 
 app = Flask(__name__, static_folder="static", static_url_path="")
 CORS(app)
 
-# 1. Setup LLM (Llama 3 on Groq)
+# 1. Initialize LLM (Llama 3 via Groq) [cite: 1]
 llm = ChatGroq(
     model_name="llama-3.3-70b-versatile",
     groq_api_key=os.getenv("GROQ_API_KEY")
 )
 
-# 2. Setup Server-Side Embeddings (Saves RAM)
-# Ensure your index was built with 'multilingual-e5-large' or update to match.
+# 2. Server-side Embeddings (Critical for Render memory limits) [cite: 1, 2]
 embeddings = PineconeEmbeddings(
     model="multilingual-e5-large", 
     pinecone_api_key=os.getenv("PINECONE_API_KEY")
 )
 
-# 3. Connect to Pinecone Vector Store
+# 3. Connect to Pinecone Index [cite: 1, 2]
 index_name = os.environ.get("PINECONE_INDEX", "adino-rag")
 vectorstore = PineconeVectorStore.from_existing_index(
     index_name=index_name,
@@ -35,7 +33,7 @@ vectorstore = PineconeVectorStore.from_existing_index(
 
 def generate_answer(context_docs, question):
     context = "\n\n".join([d.page_content for d in context_docs])
-    prompt = f"Answer ONLY from context: {context}\n\nQuestion: {question}"
+    prompt = f"Answer ONLY from the context provided.\nContext: {context}\n\nQuestion: {question}"
     return llm.invoke([HumanMessage(content=prompt)]).content
 
 @app.route("/")
@@ -48,22 +46,24 @@ def ask():
     question = data.get("question")
     role = data.get("role", "Employee")
 
-    if not question: return jsonify({"error": "Question missing"}), 400
+    if not question:
+        return jsonify({"error": "Question missing"}), 400
 
-    # Retrieve docs and apply RBAC filter
-    docs = vectorstore.similarity_search(question, k=6)
+    # Retrieve and RBAC filter [cite: 1, 2]
+    docs = vectorstore.similarity_search(question, k=5)
     allowed_docs = [
-        d for d in docs 
-        if role in d.metadata.get("allowed_roles", []) 
+        d for d in docs
+        if role in d.metadata.get("allowed_roles", [])
         or not d.metadata.get("allowed_roles")
     ]
 
     if not allowed_docs:
         return jsonify({"answer": "Access denied for your role."})
 
-    return jsonify({"answer": generate_answer(allowed_docs, question)})
+    answer = generate_answer(allowed_docs, question)
+    return jsonify({"answer": answer})
 
 if __name__ == "__main__":
-    # Bind to Render's dynamic port
+    # Fix Port Binding for Render [cite: 1]
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)

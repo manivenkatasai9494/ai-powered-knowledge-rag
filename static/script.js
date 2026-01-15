@@ -8,6 +8,7 @@ async function send() {
     chat.innerHTML += `<div class="user">You (${role}): ${text}</div>`;
     document.getElementById("input").value = "";
 
+    // Relative path for deployment 
     const res = await fetch("/ask", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
