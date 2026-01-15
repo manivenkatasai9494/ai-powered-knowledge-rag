@@ -5,29 +5,32 @@ from dotenv import load_dotenv
 
 from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_community.vectorstores import FAISS
 from langchain_core.messages import HumanMessage
+
+from pinecone import Pinecone
+from langchain_pinecone import PineconeVectorStore
 
 load_dotenv()
 
 app = Flask(__name__, static_folder="static", static_url_path="")
 CORS(app)
 
-# ---------------- LLM ----------------
 llm = ChatGroq(
-    model_name="llama-3.3-70b-versatile",
+    model_name="llama-3.3-70b-versatile",   # or any Groq model you like
     groq_api_key=os.getenv("GROQ_API_KEY")
 )
-# ---------------- Vectorstore ----------------
+
 embeddings = HuggingFaceEmbeddings(model_name="all-mpnet-base-v2")
 
-vectorstore = FAISS.load_local(
-    "vectorstore",
-    embeddings,
-    allow_dangerous_deserialization=True
+# ---------- Pinecone vector store ----------
+pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
+index_name = os.environ.get("PINECONE_INDEX", "adino-rag")
+
+vectorstore = PineconeVectorStore.from_existing_index(
+    index_name=index_name,
+    embedding=embeddings,
 )
 
-# ---------------- Answer Generator ----------------
 def generate_answer(context_docs, question):
     context = "\n\n".join([d.page_content for d in context_docs])
 
@@ -46,14 +49,9 @@ Answer:
 """
     return llm.invoke([HumanMessage(content=prompt)]).content
 
-# ---------------- Routes ----------------
 @app.route("/")
 def index():
     return send_from_directory("static", "index.html")
-
-@app.route("/health")
-def health():
-    return jsonify({"status": "ok"})
 
 @app.route("/ask", methods=["POST"])
 def ask():
@@ -64,11 +62,14 @@ def ask():
     if not question:
         return jsonify({"error": "Question missing"}), 400
 
+    # 1️⃣ Retrieve from Pinecone
     docs = vectorstore.similarity_search(question, k=6)
 
+    # 2️⃣ RBAC filter
     allowed_docs = [
         d for d in docs
         if role in d.metadata.get("allowed_roles", [])
+        or not d.metadata.get("allowed_roles")  # fallback
     ]
 
     if not allowed_docs:
