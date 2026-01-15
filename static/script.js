@@ -1,20 +1,20 @@
 async function send() {
-    const text = document.getElementById("input").value;
+    const input = document.getElementById("input");
     const role = document.getElementById("role").value;
     const chat = document.getElementById("chat");
-
-    if (!text) return;
-
-    chat.innerHTML += `<div class="user">You (${role}): ${text}</div>`;
-    document.getElementById("input").value = "";
-
-    // Relative path for deployment 
+  
+    if (!input.value) return;
+  
+    chat.innerHTML += `<div class="user">${input.value}</div>`;
+  
     const res = await fetch("/ask", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ question: text, role })
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question: input.value, role })
     });
-
+  
     const data = await res.json();
-    chat.innerHTML += `<div class="bot">Bot: ${data.answer}</div>`;
-}
+    chat.innerHTML += `<div class="bot">${data.answer}</div>`;
+    input.value = "";
+  }
+  

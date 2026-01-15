@@ -2,67 +2,71 @@ import os
 from dotenv import load_dotenv
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_huggingface import HuggingFaceEndpointEmbeddings
 from langchain_core.documents import Document
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from pinecone import Pinecone, ServerlessSpec
 from langchain_pinecone import PineconeVectorStore
 
 load_dotenv()
 
-def get_allowed_roles(text: str):
+def get_allowed_roles(text):
     text = text.lower()
     roles = []
-    if any(k in text for k in ["salary", "pf", "payroll", "joining", "induction", "bonus", "gratuity"]):
+
+    if any(k in text for k in ["salary", "pf", "bonus", "payroll"]):
         roles.append("HR")
-    if any(k in text for k in ["performance", "evaluation", "telecommuting", "conflict", "approval", "deputation"]):
+    if any(k in text for k in ["approval", "performance", "manager"]):
         roles.append("Manager")
-    if any(k in text for k in ["leave", "attendance", "dress code", "conduct", "holiday", "medical"]):
+    if any(k in text for k in ["leave", "attendance", "policy"]):
         roles.append("Employee")
-    if any(k in text for k in ["welcome", "vision", "history", "mission", "company", "adino"]):
-        roles = ["HR", "Manager", "Employee"]
-    return list(set(roles)) if roles else ["HR", "Manager", "Employee"]
+
+    return roles if roles else ["HR", "Manager", "Employee"]
 
 def build_pinecone_index():
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    # Adjust path if Updated_major_dataset.txt is inside a 'data' folder
     DATA_PATH = os.path.join(BASE_DIR, "data", "Updated_major_dataset.txt")
 
-    if not os.path.exists(DATA_PATH):
-        DATA_PATH = os.path.join(BASE_DIR, "Updated_major_dataset.txt")
-
-    loader = TextLoader(DATA_PATH, encoding="utf8")
+    loader = TextLoader(DATA_PATH, encoding="utf-8")
     docs = loader.load()
-    splitter = RecursiveCharacterTextSplitter(chunk_size=600, chunk_overlap=100)
+
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=600,
+        chunk_overlap=100
+    )
     chunks = splitter.split_text(docs[0].page_content)
 
-    tagged_docs = [Document(page_content=c, metadata={"allowed_roles": get_allowed_roles(c)}) for c in chunks]
+    documents = [
+        Document(
+            page_content=c,
+            metadata={"allowed_roles": get_allowed_roles(c)}
+        )
+        for c in chunks
+    ]
 
-    # Use Endpoint version to stay under 512MB RAM
-    embeddings = HuggingFaceEndpointEmbeddings(
-        huggingfacehub_api_token=os.getenv("HUGGINGFACE_API_KEY"),
-        repo_id="sentence-transformers/all-mpnet-base-v2",
-        task="feature-extraction"
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-mpnet-base-v2"
     )
 
-    index_name = os.environ.get("PINECONE_INDEX", "adino-rag")
-    pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
+    pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
+    index_name = os.getenv("PINECONE_INDEX", "adino-rag")
 
-    # Reset index logic
-    existing_indexes = [idx.name for idx in pc.list_indexes()]
-    if index_name in existing_indexes:
-        print(f"Deleting old index '{index_name}' to reset dimensions...")
+    if index_name in [i.name for i in pc.list_indexes()]:
         pc.delete_index(index_name)
-    
-    print(f"Creating fresh 768-dimension index '{index_name}'...")
+
     pc.create_index(
         name=index_name,
-        dimension=768, 
+        dimension=768,
         metric="cosine",
         spec=ServerlessSpec(cloud="aws", region="us-east-1")
     )
 
-    PineconeVectorStore.from_documents(tagged_docs, embedding=embeddings, index_name=index_name)
-    print("Index ready!")
+    PineconeVectorStore.from_documents(
+        documents,
+        embedding=embeddings,
+        index_name=index_name
+    )
+
+    print("✅ Pinecone index created successfully")
 
 if __name__ == "__main__":
     build_pinecone_index()
