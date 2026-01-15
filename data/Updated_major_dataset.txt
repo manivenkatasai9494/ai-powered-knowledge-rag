@@ -1,0 +1,510 @@
+INDEX
+Introduction
+? Introduction and Purpose of the Handbook
+? Welcome Message from the CEO
+? Company History
+? Company Vision
+? Company Mission
+? Company Values
+? Company Commitment to Employees
+Code of Conduct and Business Ethics
+? Confidentiality Policy
+General Employment Information
+? Employment Eligibility
+? Joining Information
+? Internal Employee Application Process
+? Appointment & probationary policies
+? Employment categories/Grades
+? Promotions
+? Open Door Policy
+? Rehiring Policy
+? Referral policy
+? Management Trainee Policy
+? Personnel File Policy
+? Access to Personnel Records
+Attendance at Work
+? Working Hours
+? Break and Lunch Periods
+? Attendance Expectations and Policy
+? Telecommuting Policy
+Workplace Professionalism and Company Representation
+? Work Dress Code
+? Workplace environment policy
+? Prohibitions and penalties
+? Workplace Visitors
+? Accepting and Giving Entertainment or Gifts
+Use of Company Equipment and Electronics
+? Telephone Use
+? Cell Phone Policy
+? Company Tools, Equipment and Supplies
+? Computer and Internet Use Policy
+? Blogging and Social Media Policy
+? Return of Company Property
+Performance Expectations and Evaluation
+? Performance Management System
+? Employee Conduct and Performance
+? Conflict Resolution
+? Complaint Procedure
+? Employee Misconduct
+Operating policies
+? Travel for Business Policy
+? Mobile Reimbursement
+? Conveyance Reimbursement
+? Internet Charges
+? Training policy
+? Deputation Policy
+? Business/ Sales Call
+? Relocation and transfer
+Employment Termination
+? Exit Interview
+Payroll Information
+? Compensation Schedule
+Benefits
+? Provident Fund
+? Gratuity
+? Mediclaim / Medical Insurance
+? ESIC
+? Bonuses
+? Retirement
+Employee Leave Policies
+? Leave application process
+? Attendance Policy
+? Sick Leave
+? Privilege leave
+? Casual leave
+? LTA
+Policies and Norms are variable as per Grade, Location, etc.
+Purpose of the handbook
+This Adino Telecom Ltd. Employee Handbook establishes policies, procedures, benefits, and working conditions that will be followed by all employees as a condition of their employment at the Company. The Standards of Conduct describe the expected actions and behaviours of employees while conducting Company business.
+This Employee Handbook is not a contract of employment nor is it intended to create contractual obligations for the Company of any kind.
+The policies and procedures outlined in this handbook will be applied at the discretion of Adino Telecom Ltd. Adino Telecom Ltd. reserves the right to deviate from the policies, procedures, benefits, and working conditions described in this handbook. Furthermore, the Company reserves the right to withdraw or change the policies, procedures, benefits, and working conditions described in this handbook at any time, for any reason, and without prior notice.
+The Company will make every effort to notify employees when an official change in policy or procedure has been made but employees are responsible for their own up-to-date knowledge about Company policies, procedures, benefits, and working conditions.
+No provision in this employee handbook and expected Standards of Conduct can be waived without written permission from the Company's President, or designee. Such a waiver, if granted, applies only to the employee for whom the waiver was granted at the time of the waiver.
+Adino Telecom Ltd. strives to provide an employee-friendly environment in which goal-oriented individuals thrive as they achieve ever more demanding challenges. Your Company commitment to serving customers and to providing quality products at competitive prices is unwavering. These policies, procedures and working conditions provide a work environment in which both customer interests and employee-interests are served.
+Adino Telecom Ltd. values the talents and abilities of our employees and seeks to foster an open, cooperative, and dynamic environment in which employees and the Company alike can thrive.
+Please review the policies, procedures, working conditions, and benefits described in this handbook. You will be asked to affirm that you have read, understand, agree to abide by, and acknowledge your receipt of this employee handbook and employee Standards of Conduct.
+Regards,
+Authorized Signatory
+Welcome message from the CEO
+On behalf of your colleagues, I welcome you to Adino Telecom Ltd. and wish you every success here.
+We believe that each employee contributes directly to Adino Telecom Ltd.'s growth and success, and we hope you will take pride in being a member of our team.
+This handbook was developed to describe some of the expectations of our employees and to outline the policies, programs, and benefits available to eligible employees. Employees should familiarize themselves with the contents of the employee handbook as soon as possible, for it will answer many questions about employment with Adino Telecom Ltd.
+We hope that your experience here will be challenging, enjoyable, and rewarding. Again, welcome!
+Somnath Singha,
+CEO, Adino Telecom Ltd.
+Company history
+Adina Telecom Ltd. is India's premier broadband solutions company established in 1992, which delivers you the edge to stay ahead in this ever-changing global digital era. Adina Telecom Ltd. Limited is a joint venture between Onida Group and Enkay Telecom communications Ltd. - the two majors operating in the field of applied electronics, entertainment and Telecom communications.
+The concept behind the venture is to bring the latest in wireless communications and broadband solutions by marketing innovative Telecom Ltd. products and providing system integration and custom built solutions to clients across India.
+Adino Telecom Ltd. Limited has extensive experience in providing last mile solutions using fixed broadband wireless access equipment. The 1,200+ links installed base in India mainly serves this application. We have provided both private networking for the corporate locations in a particular City/Town or Urban Area as well as last mile links for connecting Corporate locations in different cities through Service Providers Networks offering point to point, point to multipoint & Any point to multipoint access solutions providing connectivity ensuring more than 99.5% uptime.
+We have executed the eGovernance project connecting more than 1000 locations for Gujarat Government connecting Districts & Talukas for horizontal expansion for the last mile solution. In this project the triple-play application namely Voice, Video and Data is successfully up and running providing optimized access.
+Adino Telecom Limited is one of the leading supplier of Radio Communication Equipment and Solutions Provider, offering the latest State of Art Technology to meet the communication needs of Mission Critical Customers. Adino has a vast experience of 15 years in the RF field and we offer a variety of solutions ranging from Analog Transceivers, Digital Transceivers, Radio Trunking Systems, Broadband Wireless Equipment etc. and has served many esteemed organization. To name a few viz. Police department, Railways, Defense, Cement Industries, Oil Sectors, Steel Industries, Irrigation Department and many others.
+Further we are please to inform you that we have been appointed as an exclusive distributor and after sales service support for India through a distribution agreement with ICOM, Japan and also awarded with Rate Contract by DGS&D New Delhi vide for supply of ICOM Japan, Make VHF, UHF and HF radio equipment. The manufacture of high quality products from Icom, Japan originates from the most advanced facilities and strictest quality control possible within Japan, covering everything from development to trial manufacture to production lines. Starting from amateur radio communication equipment in which high frequency technology is freely utilized, Icom has expanded into land radio communication equipment, marine radio communication equipment and navigation equipment , attaining high reliability and recognition in each field.
+Earlier we were supplying Motorola Two Way Radio Communication Equipment with a Nationwide sales and after sales support including the four metros of Mumbai, New Delhi, Calcutta and Bangalore with additional branches in Ranchi, Gandhinagar, and Hyderabad. Thus we are in a position to supply the Two Way Radio Equipment and provide solutions anywhere in India.
+ICOM Radios are used widely in India by various Organizations such as Police Department, Paramilitary Forces, Railways, Defence, Irrigation dept etc. We have started supplying ICOM Make Radios since January 2007. To name some of our customer whom we have recently supplied are South Western Railway, Hubli, Tata Power Ltd, Mumbai, Lilavati Hospital, Mumbai, NOCIL, Mumbai, L.G. Electronics, Pune, irrigation dept kolhapur and many more through our dealer network across India
+Company Mission
+"To achieve Customer Satisfaction and maintain excellent Customer Relations by providing high quality Wireless Communication and Networking Solutions and to foster a strong and competent work force within the organization"
+Company Values
+Adino Telecom Ltd. functions on the basis of the following values:
+? Respect for every individual employees' views and opinions associated with the Company
+? Adino Telecom Ltd. believes in encouraging their employees to work with passion and to strive towards perfection
+? Working with integrity towards their goals is encouraged among the employees
+? Adino Telecom Ltd. has a great eye for detail
+? "Achieving the impossible" is the motto of our Company
+? Maintaining strong Customer relationship is the crux of our Company
+Company commitment to employees
+This chapter addresses the company's commitment to providing a safe, high-quality work environment for its employees including management and staff and contract labour. The company takes care of the following:
+? Payment of fair wages compared to the national average, and provide basic benefits
+? Provision for enhancement and training for workforce, including subcontracted labour.
+? Provision of training and skill development of labour force to help them perform better, get promoted or find alternative employment in cases of redundancies.
+? Development of labour practices around human rights (including child and forced labour), firing/redundancy and disciplinary measures in compliance with international standards and suitable for local conditions.
+? Respect employees' right of association and collective negotiation if they so choose.
+? Ensuring work/life balance and provide flexible/part time working opportunities
+Business ethics and code of conduct
+Honesty
+Company executives should be truthful to people involved. They should not intentionally mislead or deceive others by distorting information, exaggerating or giving partial truth. Nor should they discriminate against people by doing or abstaining from doing something required to be done.
+Integrity
+Company executives should exhibit their personal integrity and courage to uphold their convictions by doing things they perceive as right despite pressures favouring the opposite. They should be respectable, impartial, and committed to their principles. They should fight for their beliefs and never compromise their principles for any objective that would turn them into deceivers or immoral persons.
+Trust worthiness
+Executives should disclose and provide related information, as well as correct any misunderstanding on facts. They should try in every proper way to fulfil their promises. They should not abuse technical or legal interpretation as an excuse not to cooperate or comply with contractual obligations.
+Loyalty
+Our executives should exhibit their loyalty to the company by dedicating themselves to their respective duties and to its people by providing support and assistance whenever required. They should not use or disclose confidential information for personal advantage. On the contrary, they should maintain the ability to make decisions independently as professionals, avoiding inappropriate conduct and conflict of interest, as well as being faithful to the company and their colleagues. If the executives intend to leave and work somewhere else, they should notify appropriately in advance and treat the company information as important and confidential. They should not exploit their former positions for their own benefit.
+Fairness
+All executives should be fair and just towards all people. They should not use their power deliberately, neither should they resort to cheating or inappropriate tactics to obtain or maintain benefits or advantages from misled or distressed people. Fair-minded executives should disclose the agreements set for consideration and treat everyone equally, be open to disagreeable opinions, willing to admit the mistakes they make, and ready to shift positions and beliefs to appropriate and correct ones, if the situation demands.
+Concern for others
+Our executives should be considerate, sympathetic, kind, and well intentioned to others. As the golden rule says, "Treat others the way you want to be treated", executives should provide the help that people need. They should also pursue proper means to achieving business objectives in a way that the business objectives are aligned with the objectives and interests of people.
+Respect for others
+Company executives should mutually respect each other's honour, freedom, privacy, legal and human rights, as well as the interests of stakeholders. In making their decisions, executives should be gentle and treat everyone as equal without discrimination by gender, class, or race.
+Commitment to Excellence
+Executives should excel in their performance, i.e., should be equipped with knowledge, be prepared, and should work hard to enhance knowledge and skills to cope with every issue under one's responsibilities.
+Leadership
+All executives should be aware of their own responsibilities and leadership requirements and should seek and comply with code of conduct models that would benefit themselves and the organization when put to work. They should also attempt to create an environment in which principles and ethical decision-making are given utmost importance.
+Reputation and Morale
+Senior executives should create and defend company's reputation, as well as employees' morale, by singly and collectively avoiding any action that would hurt the inter-relation between the company and employees. On the other hand, all employees must singly and collectively do everything necessary to correct and prevent any wrongdoing committed by others.
+Accountability
+Senior executives should create and defend company's reputation, as well as employees' morale, by singly and collectively avoiding any action that would hurt the inter-relation between the company and employees. On the other hand, all employees must singly and collectively do everything necessary to correct and prevent any wrongdoing committed by others.
+Policy on Compliance with the Law and Relevant Rules and Regulations
+The Company is committed to complying with all relevant laws, rules and regulations everywhere it operates and has established the policies as follows:
+? Directors, executives and staff must comply with local laws, rules, regulations as well as customs and traditions of the country in which the Company operates.
+? Directors, executives and staff must comply with the Company's rules and regulations.
+? Directors, executives and staff must not assist, support or conspire to avoid any legal or regulatory compliance.
+? Directors, executives and staff must cooperate with supervisory agencies as well as report information on violation of or non-compliance with existing laws or regulations to concerned persons.
+Policy on Confidentiality of Information
+The Company has set up an important policy concerning the use of information of the Company in compliance with Good Corporate Governance and relevant regulations. The Company has advised the Directors, Executives and staff to focus on confidential information especially internal information not yet disclosed to public or any data or information that may affect the business of the Company or its share price. The guidelines are as follows:
+? Directors, executives and staff must not use information they receive from their directorships or employment for personal benefit or for conducting business or other activities in competition with the Company
+? Directors, executives and staff must not disclose business secrets to any third party especially to competitors even after a Director, Executive or staff member has left the Company.
+Policy on safeguarding Company Property
+The Company expects executives and staff to utilise the Company's resources and assets in a most efficient manner, to increase corporate competitiveness and to provide the best possible service to its customers in accordance with the following guidelines:
+? Executives and staff should use the Company's resources and assets in a cost-efficient manner for maximum benefit of the Company.
+? Executives and staff should help protect the Company's properties and assets from improper depreciation or loss
+? Provide and follow proper preventive systems and procedures and effectively insure the same against any fire, natural calamities, burglary and other risk or damage.
+Confidentiality Policy
+In order for our staff to conduct company business and properly administer our own personnel procedures, we must gather and maintain certain private information. The purpose of this Confidentiality Policy is to set forth guidelines with regard to the collection, maintenance, use and disclosure of confidential information. All employees share the responsibility to ensure that proper security and confidentiality are maintained. Report any breach promptly to the Human Resource Department or to the concerned authority. Anyone who violates this policy will be subject to disciplinary action and possible legal recourse.
+Company property includes not only tangible property such as desks and computer terminals, but also intangible property such as information and data on those computer terminals. Of particular importance are proprietary information and confidential information. Proprietary information includes all information obtained by company employees during the course of their work. Customer lists and files, production information, personnel files, employee medical information, computer records, financial and marketing data, formulae and trade secrets are examples of confidential information.
+General Policies
+? You may not disclose or use proprietary or confidential information except as your job requires. You also may not disclose or use any proprietary or confidential information that you obtained during the course of your employment with any previous employer.
+? Do not discuss confidential information with anyone, including co-workers, customers and individuals outside the company, except as necessary to carry out assigned duties. Take extra precautions when you are in areas where someone may overhear your discussion or observe your work. Clear your desktop of any confidential information before leaving your desk.
+? If you need to leave your computer during the workday, you should use the "lockout" feature which will require you to enter a password when you return.
+? Where appropriate, clearly mark files as "Confidential."
+? Computers regularly used by an individual should not be used by other staff without permission.
+? Mail marked "confidential" should be opened only by the person to whom it is addressed.
+? Use only honest, legitimate means to collect information. Whenever practicable, obtain the information directly from the individual concerned.
+? Refer all inquiries from the press about our operations or employees to the Human Resource Department.
+? When in doubt about the release of information, check with your immediate supervisor. Never be intimidated into releasing the information when there is a question.
+Outside Requests for Information about our Employees
+We will not release employee data to individuals or organizations outside of the company without the employee's authorization. The only exception is when the disclosure is compelled by court order, judicial or administrative process or a specific provision of law. Prior to release, the person requesting the information must present the appropriate court document or agency authority.
+An employee who desires the company to release information to an outside individual or organization (e.g., financial and employment information released to a bank or loan agency in support of the employee's loan application) must sign a release and waiver before we release the information. The employee's spouse or relative cannot give the waiver on behalf of the employee absent a court order.
+When other employers ask for references, we will limit information regarding former employees to dates of employment and job(s) held unless the company president authorizes an exception. Any former employee who wants to release additional information about his or her employment must sign a request and waiver. If you respond to a verbal or telephone request for information, record what information you released, to whom and for what purpose.
+Information about our Business Operations
+In managing the operations of our business, certain staff members become privy to sensitive information about the business, our customers, and our employees. This information must remain confidential both internally (within the company) and externally (outside the company, including spouses and family members). Do not discuss it with others beyond what is required to perform your job unless you are given specific authority to do so.
+GENERAL EMPLOYMENT INFORMATION
+Employment Eligibility
+? No person below the age of 18yrs is eligible for working in the company.
+? The minimum educational qualification that is required for being eligible to work with Adino Telecom Ltd. is HSC or any of its equivalent examinations.
+? The minimum qualifications statement on the job announcement informs the applicant of the education, experience and other requirements for the position. Thoroughly document your education, training and experience, demonstrating that they meet the requirements as posted. Only those applicants whose applications demonstrate that they meet the minimum qualifications and other criteria in the job announcement are verified to compete in the examination process.
+Joining Information
+Every Employee at the time of joining is required to fill in the Joining Report provided from the Human Resources Department. Along with the Joining Report, the Employee is required to submit the photocopies of the following documents:
+? Residence Proof
+? Birth Certificate
+? Educational Certificates
+? Appointment, Relieving and Experience Certificates of Previous employers
+? Salary slips of the last 2 months
+? PAN card
+? Passport Size Photographs
+All the above Documents will be verified with the Original Documents. Following this, the employee will go through an Induction process wherein he/she would be introduced to the company working, policies and co-workers.
+Internal Employee Application Process
+Adino Telecom Ltd. is dedicated to assisting employees to reach their professional goals through internal promotion and transfer opportunities. One of the tools the company makes available to employees in managing their career is internal job posting. This procedure enables current employees to apply for any available position either before or at the same time the position is advertised outside of the company.
+To apply for an opening:
+? Step 1: Ensure that you meet the following eligibility requirements.
+? You are a current, regular full or part-time employee.
+? You have been in your current position for at least six months. (Exceptions to this six-month requirement can be made by your current supervisor and should be consistent with company business needs.)
+? Your performance meets performance development plan standards or established work standards in your current position.
+? You have not had an employee counselling or corrective action within six months.
+? You are not following a performance improvement plan for your current position.
+? You meet the qualifications listed for the position on the job posting.
+? Step 2: Complete an Internal Job Application form.
+? Applications are available from Human Resources Department. Attach your resume, if you have one, to the completed application.
+? Step 3: Submit the Internal Job Application to your supervisor for approval.
+? Step 4: Submit your completed and approved Internal Job Application to HR.
+? Step 5: Candidates who are qualified will participate in an initial interview with the supervisor of the position, if they have not interviewed with that particular supervisor within the past six months. Finalists will participate in two additional interviews, with an HR representative and with an internal customer of the position or a manager. The selected person will be notified by the supervisor of the position.
+Appointment and Probationary Process
+Every appointment would fall under one of the following categories:
+? New Hire: When you initially accept an appointment in State government, you are considered a new hire. As a new hire, you will be required to serve a probationary period of either six months or one year.
+? Rehiring: When an ex-employee of the Company is rehired into the organisation.
+? Transfers: Transfers and relocations to the other branches across the country.
+? Promotions: Promotion is advancement to a vacant position in a class that has a higher grade than the class previously held. When you accept a promotion, you will be required to serve a trial period of either six months or one year. If you fail to attain permanent status in a position to which you were promoted, you shall be restored to your former position.
+? Demotions: An employee may be demoted to a position in a class with a lower grade level if the employee meets the minimum qualifications and if the appointing authority approves.
+As a new hire, your status of appointment is "probationary." After you have successfully completed a full probationary period, you are considered a "permanent" employee. Probationary period is 6 months for a new hire. Your supervisor will evaluate your performance at the end of the second and fifth months.
+In case the supervisor or the authorised personnel feels the need, the probation period can be extended.
+Employment Categories
+Each employee will belong to one of the following employment categories:
+1. Regular full-time employees: Those who are not in a temporary or probation status and who are regularly scheduled to work the company's full-time schedule. Generally, they are eligible for the company benefit package, subject to the terms, conditions, and limitations of each benefit program.
+2. Probation employees: Those whose performance is being evaluated to determine whether further employment in a specific position or with the company is appropriate. Employees who satisfactorily complete the probation period will be notified of their new employment status.
+3. Contractual Employees: Those who are hired as interim replacements, to temporarily supplement the work force, or to assist in the completion of a specific project. Employment assignments in this category are of a limited duration. Employment beyond any initially stated period does not in any way imply a change in employment status. Temporary employees retain that status unless and until notified of a change. While temporary employees receive all legally mandated benefits, they are ineligible for all of the company's other benefit programs.
+4. Casual employees: Those who have established an employment relationship with the company but who are assigned to work on an intermittent and/or unpredictable basis. While they receive all legally mandated benefits, they are ineligible for all of the company's other benefit programs.
+5. Management Trainees: Those who are recruited for a period of 1 to 3 months from Management colleges.
+Promotions
+Adino Telecom Ltd. strives to promote the most capable and experienced employees based on their demonstrated ability to assume greater responsibility and perform essential job tasks. Consequently, reasonable efforts will be made to fill vacant positions from within, where possible. At the same time, it may be deemed necessary to recruit and hire outside the company to attract the most qualified individual for a particular job vacancy. The job openings will be posted on company bulletin boards and other areas accessible to all employees.
+Simultaneously, outside recruiting sources may be used. To be eligible to apply for a posted vacancy, employees must meet the minimum hiring specifications for the position, have completed his/her introductory period, and be an employee in good standing in terms of his/her overall work record. Selections for promotions and transfers shall be made based on an individual's overall qualifications and ability to perform the essential duties required of the job.
+Open Door Policy
+Adino Telecom Ltd. has adopted an Open Door Policy for all employees. This means, literally, that every manager's door is open to every employee. The purpose of our open door policy is to encourage open communication, feedback, and discussion about any matter of importance to an employee. Our open door policy means that employees are free to talk with any manager at any time.
+If any area of your work is causing you concern, you have the responsibility to address your concern with a manager. Whether you have a problem, a complaint, a suggestion, or an observation, your company managers want to hear from you. By listening to you, the company is able to improve, to address complaints, and to foster employee understanding of the rationale for practices, processes, and decisions.
+Most problems can and should be solved in discussion with your immediate supervisor; this is encouraged as your first effort to solve a problem. But, an open door policy means that you may also discuss your issues and concerns with the next level of management and/or Human Resources staff members. No matter how you approach your problem, complaint, or suggestion, you will find managers at all levels of the organization willing to listen and to help bring about a solution or a clarification.
+Rehiring Policy
+A former employee who has been rehired after leaving employment for more than one calendar year is considered an introductory employee during their first ninety days following rehire. The benefits may or may not be continued from the point of their last tenure unless required by law. In effect, the Company is not required to owe any returning employee for previous time earned for vacation, sick, etc.
+Any employee returning to work after a leave of less than one calendar year will have their benefits reinstated at the level when separation began; less any time owed back to the company. This is intended to help employees who have been laid off due to unforeseen Company circumstances. Other circumstances may affect the Company's decision to reinstate benefits except for those governed by law.
+Referral Policy
+Adino Telecom Ltd. follows the referral policy wherein an existing employee can refer a candidate for the vacant post. On 3 months continued tenure of the referred candidate, the employee who referred the candidate receives the following benefits:
+? Senior Management Level: Benefit of Rs.3000
+? Middle Management Level: Benefit of Rs.2000
+? Junior Level: Benefit of Rs.1000
+Management Trainee Policy
+Adino Telecom Ltd. follows a Management Trainee Policy wherein students from leading management schools are recruited for a period of 1-3 months every year. Such recruitments would be project based. Adino Telecom Ltd. does not provide stipend to such recruits but the trainees maybe absorbed if found competent.
+Personnel file policy
+A personnel file is maintained for each employee of Adino Telecom Ltd. These personnel files contain confidential documents and are managed and maintained by Human Resources staff.
+Typical documents in a personnel file include the employment application, a family emergency contact form, documented disciplinary action history, a resume, employee handbook and at-will employer sign off sheets, current personal information, and job references. Not all personnel files contain the same documents but each personnel file has some documents that are the same.
+Payroll files are also maintained; payroll files contain a history of the employee's jobs, departments, compensation changes, and so on.
+An employee may view his or her personnel file by contacting a Human Resources staff person during normal business hours. No employee may alter or remove any document in his or her personnel file which must be viewed in the presence of an HR staff person.
+Access to Personnel Records
+All employees, former employees, and representatives of employees may view certain contents of their personal file with advance notice to Human Resources staff. Documents that relate to the employee's qualifications for hire such as the application, promotion, disciplinary action, and transfer may be viewed. Additionally, the employee may review policy sign-off forms and training records.
+Documents that the employee may not review include: references or reference checks, records of any investigation undertaken by management, medical records, documents related to a judicial proceeding, any document that would violate the confidentiality of another employee, and documents used for employee planning.
+Procedure
+An employee who wants to review the allowable contents of their personnel file should contact Human Resources with 24 hours notice. Former employees, or people unknown to the Human Resources staff, must present identification and / or proof of permission to access the personnel file.
+Personnel files must be reviewed in the presence of a Human Resources staff person. No part of the personnel file may be removed from the office by the employee.
+Photocopies of the file, or portions of the file, may be requested by the employee. Within reason, the Human Resources staff person will provide photocopies. For extensive copying, the employee will need to pay for the photocopies.
+If the employee is unhappy with a document in his or her personnel file, in the presence of the Human Resources staff person, the employee may write an explanation or clarification and attach it to the disputed document.
+ATTENDANCE AT WORK
+Working Hours
+The office working hours are as follows:
+? 9:00 am to 5:45 pm Or,
+? 9:30 am to 6:15 pm
+Certain employees may be assigned to different work schedules and/or shifts outside of normal office hours. If an employee must be outside of the office for non-business related reasons during their normal work schedule, they should inform their manager.
+To maintain decorum in the office the organisation requests every employee to be on time. Regular late arrival by more than 15 minutes will be seriously viewed and disciplinary action may be taken.
+If there are more than 3 Late Marks in a week it would be considered as a half day.
+Break and Lunch Hours
+Lunch time at the office is between 1:00 pm to 1:30 pm. All employees are required to strictly follow the lunch time and not engage in taking frequent breaks during working hours as it affects the overall working of the company.
+Attendance Expectations and Policies
+Excellent attendance is an expectation of all employees of Adina Telecom Ltd. Emergency personal time is made available to employees for such unscheduled events as personal illness, immediate family member illness, and doctor appointments.
+Attendance is maintained at every office in two registers. The regular register for the employees reporting to work at 9:00 am and the Late Register for the employees reporting post 9:30 am to work.
+Employees accrue 2 hours of emergency personal time 3 times per month. On an annual basis, this equates to the equivalent of 72 hours.
+Employees who are using emergency personal time must call and talk with their supervisor as soon as possible, but no later than sixty minutes after the start of their shift. If the supervisor is unavailable, employees may leave a message for the supervisor with a phone number where they can be reached. The supervisor will then return their call.
+Telecommuting Policy
+The Company is committed to creating a work environment where the needs of our customers, employees, and the Company are balanced. Therefore, the Company tries to be flexible in its approach to work styles and location. Telecommuting arrangements may be made on an "as needed basis" or set up on a regular schedule. In either case, employees are encouraged to spend time working in the office whenever possible. This allows employees to be accessible to customers and creates a sense of consistency and collaboration among work teams. When employees desire to work at home, the Company asks that they do so in a manner which is in keeping with a work style of accessibility, communication, and productivity. All Telecommuting arrangements are subject to approval by the employee's manager. In general, the following principles should be used in Telecommuting:
+? Employees should make arrangements with their manager at least one week in advance of Telecommuting.
+? Employees should check in with the office regularly.
+? Employees should inform their manager of their whereabouts so they may be reached easily.
+? Working at home means working, not taking time off.
+? Employees should not routinely work at home on days prior to or following vacations or holidays if at all avoidable.
+? Under regular circumstances, Telecommuting should not comprise more than one day in a given week, or more than 3 days a month.
+Workplace Professionalism and Company Representation
+Work Dress Code
+The Company's objective, in establishing a dress code, is to enable employees to project a professional, business-like image while experiencing the advantage of more casual and relaxed clothing. Business casual dress is the standard for this dress code.
+? Semi-Formal: In general, consider the following:
+? Clothing should be conservative and nice. Button-down shirts, trousers, blouses, sport coats, and skirts are suitable.
+? Keep skirts knee-length or longer.
+? A tie is not necessary.
+? Casual: The company policy allows casual dressing on every Friday and Saturday. Casual still means work-appropriate, so your clothes must still be neat and conservative.
+Workplace Environment Policy
+Smoke Free Environment
+To protect and enhance our indoor air quality and to contribute to the health and well-being of all employees, Adina Telecom Ltd. shall be entirely smoke free. Additionally, the use of all tobacco products, including chewing tobacco, is banned from the workplace, except as designated in this policy.
+Smoking is prohibited in all of the enclosed areas within the company worksites, without exception. This includes common work areas, the manufacturing facilities, classrooms, conference and meeting rooms, private offices, hallways, the lunchrooms, stairs, restrooms; employer owned or leased vehicles, and all other enclosed facilities.
+Additionally, employees may smoke in their personal vehicles, but the smoke and tobacco products must be completely contained within the vehicle. It is not acceptable that either smoking or non-smoking employees are subjected to smoke that they must walk through to reach their vehicle or any other destination on the Company premises.
+No additional breaks are allowed to any employee who smokes. Finally, smokers and users of tobacco products must dispose of the remains in the proper containers. This helps to keep a neat and clean environment for all employees and our visiting partners and customers.
+Failure to comply with all of the components of this policy will result in disciplinary action that can lead up to and include employment termination.
+Alcohol and drug free Environment
+Adino Telecom Ltd. is an alcohol and drug free work place. Adino Telecom Ltd. has taken steps and initiated policies to ensure that employees, vendors, and customers are not:
+? Taking or using alcohol or drugs,
+? Selling drugs, or
+? Affected by the after effects of indulging in alcohol or drugs outside of the workplace during non-work time.
+Additionally, the goal of a drug-free workplace program, as they have traditionally been developed, is to encourage an employee with a substance abuse problem to seek treatment, recover, and return to work.
+Prohibitions and penalties
+The following activities are prohibited at the work place. Failure to comply with the company policies and rules is liable to be penalised. The penalties depend on the degree of the misconduct. Continuing acts of misconduct can even lead to employment termination.
+? Excessive tardiness
+? Failure to notify of an absence
+? Insubordination
+? Rude or abusive language in the workplace
+? Failure to follow "Departmental Rules or Policies"
+? Dishonesty
+? Theft
+Workplace Visitors
+General visitor policy
+? All employees need to ensure that any visitor coming to meet them takes prior appointment as far as possible.
+? All the visitors to the premises must be met and the discussions held in the common reception/discussion area.
+? If anyone is found to be transgressing this he/she shall be liable for suitable disciplinary action including termination from the services & organization reserves the right to prosecute the employee concerned or recover the damage incurred thereof.
+? In case any visitor /govt. official in or around the premises, gets in touch with you and asks you for particulars or wants to hand over any document in the name of the company, please inform them to get in touch with Administration or HR department or put them in touch with Administration/HR personally.
+Procedure of visitor policy
+On the arrival of the visitor, the receptionist would inform the concerned person who can either receive the visitor himself or direct the guest to the visitor's area. After the visit the visitor should be escorted to the reception. If the person declines to accept or to receive the guest, the visitor would be sent back. If the visitor is accepted then the above-mentioned procedure will be followed.
+An employee is not expected to:
+? Discuss his/her company related activities with an outsider.
+? Give out customer information.
+? Comment on issues that are a subject matter in the court of law.
+? Discuss financial projections of the company.
+? Discuss plans, programs, products or operations of the company.
+Giving and Receiving Gifts and Gratuities
+The Company has guidelines concerning the giving and receiving gifts and gratuities as follows:
+? Executives and staff are prohibited from receiving or giving any gifts or other gratuities from any trading or business partners.
+? Office stationary and Calendars can be accepted and given as per need.
+Use of Company Equipment and Electronics
+Telephone Use
+? Company employees may receive or make personal telephone calls during break periods only. If a telephone call is received during a non-break time, and the call is not an emergency, callers will be asked to leave a message.
+? Please inform your family and friends of this company policy and request that they keep these telephone calls to a minimum during work hours.
+? In the instance of a legitimate emergency telephone call during work hours, we will immediately attempt to locate that employee to receive the call.
+? Phones provided at work stations are to be used to conduct company business.
+? The employee telephones in the break rooms are available to make outgoing, local, personal calls during break times.
+Cell Phone Policy
+This policy about cellular phone usage applies to any device that makes or receives phone calls, leaves messages, sends text messages, surfs the Internet, or downloads and allows for the reading of and responding to email whether the device is company-supplied or personally owned.
+? An employee who uses a company-supplied device or a company-supplied vehicle is prohibited from using a cell phone, hands on or hands off, or similar device while driving, whether the business conducted is personal or company-related. Use of company owned vehicles or devices for personal business is discouraged.
+? Your company is aware that employees utilize their personal or company-supplied cellular phones for business purposes. At the same time, cell phones are a distraction in the workplace. To ensure the effectiveness of meetings, employees are asked to leave cell phones at their desk. Or, on the unusual occasion of an emergency or anticipated emergency that requires immediate attention, the cell phone may be carried to the meeting on vibrate mode.
+Company Tools, Equipment and Supplies
+? Electronic equipment, including but not limited to computers, telephones, pagers, printers and fax machines, used or owned by the company and all information stored on this equipment is company property. Company reserves the right to review and disclose any information sent, received or stored on this equipment.
+? Much of the information stored in the company's electronic equipment is confidential; disclosure can only be made at the company's discretion, any unauthorized disclosure to outsiders or co-workers is prohibited. You are not permitted to search co-workers' electronic files without permission from the co-worker or proper authorization from a supervisor. The company's policy on confidentiality applies to information and communications on all company electronic equipment.
+? Copying software programs and downloading programs or information from the Internet can result in copyright violations or viruses. You are strictly prohibited from making any copies of software without prior approval of the Systems Administrator. Installing software from home on company equipment is also forbidden. Any software programs that you wish to install on company electronic equipment must first be registered with Systems Administrator.
+? Deleting information from electronic equipment usually does not mean that it has been permanently destroyed. Information that you would be embarrassed revealing to co-workers, a jury or family members should never be sent, stored or received on the company's electronic equipment.
+Computer and Internet Use Policy
+Voice mail, email, and Internet usage assigned to an employee's computer or telephone extensions are solely for the purpose of conducting Company business. Some job responsibilities at the Company require access to the Internet and the use of software in addition to the Microsoft Office suite of products. Only people appropriately authorized, for Company purposes, may use the Internet or access additional software.
+Internet Usage
+Internet use, on Company time, is authorized to conduct Company business only. Internet use brings the possibility of breaches to the security of confidential Company Information. Internet use also creates the possibility of contamination to our system via viruses or spyware. Spyware allows unauthorized people, outside the Company, potential access to Company passwords and other confidential information.
+Removing such programs from the Company network requires IT staff to invest time and attention that is better devoted to progress. For this reason, and to assure the use of work time appropriately for work, we ask staff members to limit Internet use.
+Additionally, under no circumstances may Company computers or other electronic equipment be used to obtain, view, or reach any pornographic, or otherwise immoral, unethical, or non-business-related Internet sites. Doing so can lead to disciplinary action up to and including termination of employment.
+Email Usage at Company
+Email is also to be used for Company business only. Company confidential information must not be shared outside of the Company, without authorization, at any time. You are also not to conduct personal business using the Company computer or email.
+Please keep this in mind, also, as you consider forwarding non-business emails to associates, family or friends. Non-business related emails waste company time and attention.
+Viewing pornography, or sending pornographic jokes or stories via email, is considered sexual harassment and will be addressed according to our sexual harassment policy.
+Any emails that discriminate against employees by virtue of any protected classification including race, gender, nationality, religion, and so forth, will be dealt with according to the harassment policy.
+These emails are prohibited at the Company. Sending or forwarding non-business emails will result in disciplinary action that may lead to employment termination.
+Company Owns Employee Email
+Keep in mind that the Company owns any communication sent via email or that is stored on company equipment. Management and other authorized staff have the right to access any material in your email or on your computer at any time. Please do not consider your electronic communication, storage or access to be private if it is created or stored at work.
+Blogging and Social Media Policy
+Adino Telecom Ltd. recognizes the importance of the Internet in shaping public thinking about your company and our current and potential products, employees, partners, and customers. We also recognize the importance of our employees joining in and helping shape industry conversation and direction through blogging and interaction in social media. So, Adino Telecom Ltd. is committed to supporting your right to interact knowledgeably and socially in the blogosphere and on the Internet through blogging and interaction in social media.
+Consequently, these guidelines in this blogging and social media policy will help you make appropriate decisions about your work-related blogging and the contents of your blogs, personal Web sites, postings on wikis and other interactive sites, postings on video or picture sharing sites, or in the comments that you make online on blogs, elsewhere on the public Internet, and in responding to comments from posters either publicly or via email.
+Note that these policies and guidelines apply only to work-related sites and issues and are not meant to infringe upon your personal interaction or commentary online.
+Guidelines for Interaction about the Company on the Internet
+? If you are developing a Web site or writing a blog that will mention your company and / or our current and potential products, employees, partners, customers, and competitors, identify that you are an employee of your company and that the views expressed on the blog or Web site are yours alone and do not represent the views of the company.
+? Unless given permission by your manager, you are not authorized to speak on behalf of the company, or to represent that you do so.
+? If you are developing a site or writing a blog that will mention our company and/ or our current and potential products, employees, partners, customers, and competitors, as a courtesy to the company, please let your manager know that you are writing them. Your manager may choose to visit from time to time to understand your point of view.
+Confidential Information Component of the Blogging Policy
+? You may not share information that is confidential and proprietary about the company. This includes information about trademarks, upcoming product releases, sales, finances, number of products sold, and number of employees, company strategy, and any other information that has not been publicly released by the company.
+? These are given as examples only and do not cover the range of what the company considers confidential and proprietary. If you have any question about whether information has been released publicly or doubts of any kind, speak with your manager and the Human Resources department before releasing information that could potentially harm our company, or our current and potential products, employees, partners, and customers.
+? Your company logo and trademarks may not be used without explicit permission in writing from the company. This is to prevent the appearance that you speak for or represent the company officially.
+Respect and Privacy Rights Components of the Blogging Policy
+? Speak respectfully about the company and our current and potential employees, customers, partners, and competitors. Do not engage in name calling or behaviour that will reflect negatively on your company's reputation. Note that the use of copyrighted materials, unfounded or derogatory statements, or misrepresentation is not viewed favourably by your company and can result in disciplinary action up to and including employment termination.
+? Your company encourages you to write knowledgeably, accurately, and using appropriate professionalism. Despite disclaimers, your Web interaction can result in members of the public forming opinions about your company and its employees, partners, and products.
+? Honour the privacy rights of our current employees by seeking their permission before writing about or displaying internal company happenings that might be considered to be a breach of their privacy and confidentiality.
+Return of Company Property
+At company's request and/or on termination of your employment with company you will return to company all documents, records, notebooks, computer diskettes and tapes and anything else containing companies confidential information, including all copies thereof, as well as any other company property, in your possession, control or custody. You will also delete from your own computer or other electronic storage medium any of company's proprietary or confidential information. Not later than 20 days after your employment is terminated, you will certify in writing to company that you have complied with these obligations.
+Performance Expectations and Evaluation
+Performance Management System
+Performance of the employees will be judged on KRAs and other behavioural competencies. At Adino Telecom Ltd., we have a Performance Appraisal conducted every 6 months. The Procedure would be as follows:
+1. Every Employee is given a set of KRAs in consultation with the respective Department Heads.
+2. At the end of 6 months, each employee is evaluated on the basis of the his/her performance with respect to the pre determined KRAs.
+3. Performance Incentives and Performance awards are disbursed on basis of the Performance Appraisal of the employees.
+Employee Conduct and Performance
+? Report to work as scheduled and seek approval from their supervisors in advance for any changes to the established work schedule, including the use of leave and late or early arrivals and departures.
+? Perform assigned duties and responsibilities with the highest degree of public trust.
+? Devote full effort to job responsibilities during work hours.
+? Maintain the qualifications, certification, licensure, and/or training requirements identified for their positions.
+? Demonstrate respect for the agency and toward agency co-workers, supervisors, managers, subordinates, residential clients, students, and customers.
+? Use company equipment, time, and resources judiciously and as authorized.
+? Support efforts that ensure a safe and healthy work environment.
+? Utilize leave and related employee benefits in the manner for which they were intended.
+? Resolve work-related issues and disputes in a professional manner and through established business processes.
+? Meet or exceed established job performance expectations.
+? Make work-related decisions and/or take actions that are in the best interest of the Company.
+Conflict Resolution
+Each person employed by Company shall not engage in any activity if it will:
+? Adversely affect on-the-job work performance,
+? Create a conflict with the business interests and purposes of the company or
+? Have a negative impact on the business or reputation of the company, its product or other company employees.
+Complaint Procedure
+The HR Personnel is designated as the person who will receive a complaint from any employee who believes that his or her personal information or privacy has been compromised or that any employee has violated this privacy policy. The concerned Authority has the responsibility of conducting a proper investigation.
+An employee may make a complaint by directly approaching the aforementioned authority.
+When a violation has occurred, the Company will mitigate, to the extent practicable, any harmful effect of the disclosure and will apply appropriate sanctions.
+Employee Misconduct
+Every employee is expected to act in a professional, responsible, and courteous manner at all times. Clearly, such behaviour fosters a positive and productive working environment. Conversely, inappropriate or unprofessional behaviour is disruptive and unproductive. Moreover, inappropriate conduct is cause for discipline, up to and including immediate termination.
+Of course, in the context of this manual, it is impossible for the company to identify all standards of conduct that are unacceptable. Again, the company demands that employees act in a professional and courteous manner. We expect that employees will use common sense and good judgment in achieving this goal.
+However, the company's judgment, and not that of any individual employee, is the benchmark for what is acceptable and what is not. An employee's conduct is not made acceptable solely because the employee believes it to be. Nor may an employee excuse his or her conduct because this manual does not specifically prohibit the objectionable conduct.
+The company expects that employees recognize that inappropriate conduct, from rudeness to theft, is unacceptable. The decision as to what is inappropriate is left in the company's hands and sole discretion.
+Operating policies
+Travel for Business Policy
+DOMESTIC TRAVEL
+Travel shall be restricted to most essential travel with proper justification. All travel requests irrespective of the level of the employee travelling will have to be submitted to the CEO for approval. No travel can be undertaken without the CEO's approval.
+
+GroupGradeAir ClassTrainLodging (A)Lodging (B)Lodging (C)Boarding (A)Boarding (B)Boarding (C)RemarksIM6ACTUALSActualsActualsActualsActualsActualsActualsIIM3-M5Low Cost Airlines2nd & 3rd AC, AC Chair car300025002000500400300Bills required1000750500200200150Without BillsIIIM1-M2No (Approval required)2nd & 3rd AC, AC Chair car250020001500300300250Bills required750500250150150100without BillsIVO1-O2No3rd AC & AC Chair car150012501000250250200Bills required50035015012512575without BillsVA1-A2No2nd class sleeper, Delux Bus1000750500200200150Bills required35025015010010060without BillsINTERNATIONAL TRAVEL
+COUNTRYVP/M10-M08M07-M06M05-M01Amount in US $ per dayJAPAN/EUROPE/USA/RUSSIA/UKRAINE/ KAZAKHSTAN/250200150OTHER COUNTRIES (INCLUDING SAUDI ARABIA)14012590FOR LONG STAY IN THE MIDDLE EAST
+COUNTRYM05-M01MIDDLE EAST COUNTRIESFOR LONG STAYS IN CIS COUNTRIES
+COUNTRYVP/M10-M08M07-M06M05-M01Amount in US $ per dayMIDDLE EAST COUNTRIES200165125NOTE:
+? Above limits will be applicable for a maximum period of 7 days at one location. In case it exceeds 7 days, prior approval would be required for all expenses & that will be on service apartment basis.
+? Expenses will be reimbursed on actual bills.
+? Airport Tax & Visa Charges would be paid by company
+? Limits will be calculated on 24 hours. In case of any exceptional circumstances, where the above limits are insufficient, specific approval to be obtained from CEO.
+FOR LONG STAYS IN CHINA
+EXPENSESSR. MANAGEMENTJR. MANAGEMENTAmount in US $ per dayLODGING3020BOARDING & MISC2015CONVEYANCE2015TOTAL7050NOTE: The foreign exchange at the above rates will be released as allowance to the concerned officials for long duration official visit to China. In case there is going to be conveyance expense for long route during the tour then that will be reimbursed against supporting documents.
+Mobile Reimbursement
+The mobile bill reimbursement as per Company Policy will be as under:
+EMPLOYEE GRADEAMOUNT ALLOTTED PER MONTH (In Rs)M5 & M41500M3 & M21250M1 & M0800O1 & O2420A1, A2 & A3300Please note that no special approval will be given except to Business Managers who are required to make international calls. Please note that the above values are subject to change.
+Conveyance Reimbursement
+? Up to DM level: Maximum of Rs. 1875 pm to be claimed at actuals
+? Manager Level: Maximum of Rs. 2,200 pm to be claimed at actuals
+? Sr. Manager & DGM level: Maximum of Rs. 2,575 pm to be claimed at actual
+? GM having car: maximum Rs. 6000 per month to be claimed at actual.
+? Car maintenance: maximum Rs. 2,000 per month and Rs. 8000 per annum.
+? The conveyance expenses will have to be kept at the above levels and no reimbursement will be allowed beyond the amount mentioned.
+? In case of paid survey the conveyance will be at Rs. 5,000 pm. Please note that the above values are subject to change.
+Internet Charges
+Rs. 300 pm for internet charges will be applicable only for Grade M5.
+Training policy
+Adino Telecom Ltd. recognizes the importance of training their employees for effective and more efficient working. The Company also engages in regular training and development programs for their employees. The training requirement can be either cited by the authorised managers according to the need to a group of employees or; self initiated by the employee who wishes to be trained in a particular area.
+Business / Sales Call
+The employees who are required to go for business calls need to maintain a Customer Visit Report (CVR) with the Human Resource Department. Each Business Call made has to be verified by the Customer Visit Report at the time of claiming the expenses.
+Deputation Policy
+If the Company feels the need, employees can be deputed to another department of region for a maximum of 3 months. In case of deputation to another region, the respective regional head is responsible for arranging the accommodation and other facilities. All deputations need to be pre approved by the Business Head and the CEO.
+All deputations need to be planned 15 days prior to deputing for the smooth operation of the process.
+During the deputation period, the employee will be entitled to the following benefits:
+? Accommodation: The accommodation during the deputation period has to be arranged for in compliance with the below mentioned eligibility.
+GradeLodging (A)Lodging (B)Lodging (C)Boarding (A)Boarding (B)Boarding (C)RemarksActualsActualsActualsActualsActualsActualsM3, M2150012501000250200150Bills required50037525010010075without BillsM1, M012501000750150150125Bills required375250125757550without BillsO1, O2750625500125125100Bills required25017575656550without BillsA1500375125505075Bills required17512575252530without Bills? Travel: Travel expenses will be reimbursed as per actuals depending on the levels.
+? Daily allowance:
+GRADEALLOWANCE (per day)M3-M2Rs 300M1-M0Rs 250O1-O2Rs 200A1, A2, A3Rs 150? Mobile Reimbursement: The employee has to purchase a Local SIM card. The Reimbursement would be same as his/her eligibility.
+Relocation and Transfer
+Transfer can be request transfer, regular or disciplinary transfer. The quantum of benefit depends upon the type of transfer. A request transfer is usually to the home town of the employee. Regular is depending upon the business exigencies and disciplinary for poor performance.
+? Leave for Transfer: This depends upon the distance and type of transfer. Leave can be maximum 3 days for relocation. Flexibility in office timings is allowed for the first week of the transfer for finalising accommodation and other facilities.
+? Travelling compensation: compensation is provided for Family and self and it is matched as per the city standards (metros, non-metros)
+? Boarding and Lodging: This assistance is given for a week so that the employee gets ample of time to select a house.
+? In case of disciplinary transfer, the performance review is done after a year and if found satisfactory, then the transfer is revoked.
+Employment Termination
+Employment Termination at Adino Telecom Ltd. would fall under one of the following categories:
+? Dismissal: On account of any misconduct as specified in the employee handbook or if the employee is absconding for more than 15 days, the employment would be terminated immediately without further notice.
+? Resignation: If the employee wishes to separate from the Company, He/She is required to put in his/her resignation and continue service during the notice period as specified in the Offer/ Appointment letter.
+? Discharge: Constant ill-health or permanent disability of the employee can result in Discharge of the employee from the organisation. The employee separating from such circumstances is entitled to receive one month's basic salary post his separation.
+? Voluntary Retirement Scheme: Adino Telecom Ltd. offers a voluntary retirement scheme to its employees in compliance with the statutory standards.
+Exit Interviews
+The employment termination is carried out according to the Exit Booklet which requires the employee to submit the customer contact lists, return the company assets and sign offs from all the departments.
+The employee is required to go through an Exit Interview conducted by the Human Resource Personnel.
+Payroll Information
+Compensation Schedule
+? Salary: The salary of every employee will be given in the 1st week of the following month.
+? LTA: Employees can claim LTA once every Financial year i.e. between 1st April to 31st March.
+? Bonus: All employees are eligible to receive a bonus of Rs. 3,800 which will be disbursed on the completion of each year during Diwali.
+? Performance Incentive: Employees are entitled to receive Performance Incentives based on their performance throughout the year. The incentive is disbursed once in a year.
+? Medical: Eligible employees are covered under the Star Health Insurance Policy Scheme.
+? All employees who fall under the Income Tax should submit their Investment Plans by September of every financial year.
+? All the Investment Plan proofs need to be submitted by the end of January.
+Benefits
+Provident Fund
+All employees are covered in compliance with the Provident Fund Act of 1952 according to which:
+? Employee's Contribution: 12% of the Basic Salary. The employee can opt for additional contribution towards Provident Fund via Voluntary Provident Fund (VPF).
+? Employers' Contribution: 12% of the Basic Salary of the Employee.
+Gratuity
+Gratuity will be paid in compliance with the Payment of Gratuity Act of 1972 to all eligible employees of Adino Telecom Ltd. The employer shall pay gratuity to the eligible employee for every completed year of continuous service (more than 5 years) at the rate of 15 days salary per completed year of service. The rate of salary shall be the rate of last drawn salary.
+Mediclaim / Medical Insurance
+All eligible employees will be covered under the Star Healthclaim Medical policy for Self, Spouse and child up to Rs. 1 lakh.
+ESIC
+All eligible employees are covered in compliance with the ESI Act of 1948. All employees drawing a monthly salary upto Rs. 10,000 per month are coverable under the ESI scheme.
+? Employee's contribution: At the rate of 1.75% of Salary
+? Employer's Contribution: At the rate of 4.75% of Salary.
+Bonus
+A fixed amount of Rs. 3840 is allotted to all the employees. This amount is disbursed during Diwali.
+Retirement
+The retirement age for the employees is 58 years.
+Employee Leave Policies
+Leave application process
+Adino Telecom Ltd. follows a strict leave application procedure. Every Employee who wishes to apply for leave is required to follow the following steps:
+? STEP 1: Collect the leave application form from the HR department and fill the form specifying the reason and the type of leave applied for.
+? STEP 2: Obtain the approval of your reporting manager for sanctioning the leave application.
+? STEP 3: Apart from the written form, you are required to put in the application via e-mail to the Human Resource Department along with a copy marked to the Reporting Manager.
+Attendance Policy
+Regular attendance is essential to the Company's efficient operation and is a necessary condition of employment. When employees are absent, schedules and customer commitments fall behind, and other employees must assume added workloads.
+Employees are expected to report to work as scheduled and on time. If it is impossible to report for work as scheduled, employees must call their manager before their starting time. If your manager is unavailable, a voice message should be left.
+If the absence is to continue beyond the first day, the employee must notify their manager on a daily basis unless otherwise arranged. Calling in is the responsibility of every employee who is absent. Absence for three consecutive work days without notifying the manager is considered a voluntary termination.
+Sick Leave
+The employees of Adino Telecom Ltd. are entitled to sick leave of 7 days per annum. Sick leave is carried forward to the next financial year for 21 days post which it will get lapsed. Hence, Sick Leave cannot be encashed. Sick leave can be merged with Privilege leave in special case.
+Privilege leave
+The employees of Adino Telecom Ltd. are entitled to Privilege Leave of 25 days per annum. Privilege Leave will be carried forward to the next financial year for 90 days after which it can be encashed. Prefix & Suffix are applicable.
+Casual leave
+The employees of Adino Telecom Ltd. are entitled to Casual Leave of 8 days per annum. Casual Leave is encashed at the end of Financial Year.
+LTA
+LTA can be availed by an employee once in every financial year, i.e. between 1st April to 31st March, as per their eligibility.
+CONDITIONS FOR AVAILING LTA:
+? LTA can be availed only after confirmation.
+? It is mandatory for the employee to avail at least 3 days of Earned Leaves for the purpose of claiming LTA and provide actual supporting bills for claiming exemptions.
+? Hotel stay and other lodging expenses are not admissible for claim under LTA.
+? There will not be any cash advance towards this purpose. Reimbursement shall be given only against bills and travel documents.
+? As per Income Tax Rules, the LTA can be availed of twice in a block of four calendar years, without attracting tax, subject to employee providing a declaration and production of proof of journey.
