@@ -14,18 +14,18 @@ load_dotenv()
 app = Flask(__name__, static_folder="static", static_url_path="")
 CORS(app)
 
-# -------- LLM (Groq) --------
+# ---------------- LLM (Groq) ----------------
 llm = ChatGroq(
     model_name="llama-3.3-70b-versatile",
     groq_api_key=os.getenv("GROQ_API_KEY")
 )
 
-# -------- LOCAL Embeddings (NO API) --------
+# ---------------- EMBEDDINGS (SMALL + SAFE) ----------------
 embeddings = HuggingFaceEmbeddings(
-    model_name="sentence-transformers/all-mpnet-base-v2"
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
 )
 
-# -------- Pinecone --------
+# ---------------- PINECONE ----------------
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 index_name = os.getenv("PINECONE_INDEX", "adino-rag")
 

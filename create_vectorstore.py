@@ -13,11 +13,11 @@ def get_allowed_roles(text):
     text = text.lower()
     roles = []
 
-    if any(k in text for k in ["salary", "pf", "bonus", "payroll"]):
+    if any(k in text for k in ["salary", "pf", "bonus", "payroll", "gratuity"]):
         roles.append("HR")
-    if any(k in text for k in ["approval", "performance", "manager"]):
+    if any(k in text for k in ["approval", "performance", "manager", "deputation"]):
         roles.append("Manager")
-    if any(k in text for k in ["leave", "attendance", "policy"]):
+    if any(k in text for k in ["leave", "attendance", "policy", "dress"]):
         roles.append("Employee")
 
     return roles if roles else ["HR", "Manager", "Employee"]
@@ -33,6 +33,7 @@ def build_pinecone_index():
         chunk_size=600,
         chunk_overlap=100
     )
+
     chunks = splitter.split_text(docs[0].page_content)
 
     documents = [
@@ -44,18 +45,19 @@ def build_pinecone_index():
     ]
 
     embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-mpnet-base-v2"
+        model_name="sentence-transformers/all-MiniLM-L6-v2"
     )
 
     pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
     index_name = os.getenv("PINECONE_INDEX", "adino-rag")
 
-    if index_name in [i.name for i in pc.list_indexes()]:
+    existing = [i.name for i in pc.list_indexes()]
+    if index_name in existing:
         pc.delete_index(index_name)
 
     pc.create_index(
         name=index_name,
-        dimension=768,
+        dimension=384,     # IMPORTANT (MiniLM = 384)
         metric="cosine",
         spec=ServerlessSpec(cloud="aws", region="us-east-1")
     )
