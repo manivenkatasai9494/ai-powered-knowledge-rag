@@ -13,9 +13,9 @@ def get_allowed_roles(text):
     text = text.lower()
     roles = []
 
-    if any(k in text for k in ["salary", "pf", "bonus", "payroll", "gratuity"]):
+    if any(k in text for k in ["salary", "pf", "bonus", "payroll", "gratuity","attendance","leave"]):
         roles.append("HR")
-    if any(k in text for k in ["approval", "performance", "manager", "deputation"]):
+    if any(k in text for k in ["approval", "performance", "manager", "deputation","leave", "attendance", "policy", "dress"]):
         roles.append("Manager")
     if any(k in text for k in ["leave", "attendance", "policy", "dress"]):
         roles.append("Employee")
